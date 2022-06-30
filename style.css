@@ -1,1 +1,7 @@
-
+.round{
+    border-radius: 15%;
+}
+.space{
+  align-items: center;
+  display: inline-block;
+}
